@@ -165,6 +165,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 ### Sandboxes
 
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
+- [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 - [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
 ## Incident Response tools
@@ -319,6 +320,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 
 ### Threat signature packages and collections
 
+- [ESET's Malware IoCs](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOCs) derived from ESET's various investigations.
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 - [YARA Rules](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
