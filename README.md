@@ -6,6 +6,7 @@
 
 Your contributions and suggestions are heartily ♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+
 ## Contents
 
 - [Automation](#automation)
@@ -169,6 +170,7 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Policy enforcement
 
+- [AllStar](https://github.com/ossf/allstar) - GitHub App installed on organizations or repositories to set and enforce security policies.
 - [Conftest](https://conftest.dev/) - Utility to help you write tests against structured configuration data.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
 - [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
