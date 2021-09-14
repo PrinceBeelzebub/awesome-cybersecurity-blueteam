@@ -6,7 +6,6 @@
 
 Your contributions and suggestions are heartily ♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-
 ## Contents
 
 - [Automation](#automation)
@@ -381,7 +380,9 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 ## Transport-layer defenses
 
 - [Certbot](https://certbot.eff.org/) - Free tool to automate the issuance and renewal of TLS certificates from the [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
+- [Innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+- [Nebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security.
 - [OpenVPN](https://openvpn.net/) - Open source, SSL/TLS-based virtual private network (VPN).
 - [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
 - [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
